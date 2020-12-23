@@ -1,1 +1,1 @@
-ReactNative code from cources that I studied.
+ReactNative projects from cources that I studied.
